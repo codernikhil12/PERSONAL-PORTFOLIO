@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.87a46723.css",
+    "main.js": "/static/js/main.29cdcae4.js",
+    "static/media/remixicon.svg?t=1681573354175": "/static/media/remixicon.7b85b7f8453487681fc4.svg",
+    "static/media/froentend d.png": "/static/media/froentend d.544f7febd1c554a03552.png",
+    "static/media/froentend a.png": "/static/media/froentend a.eb9e4d4294f002447fd5.png",
+    "static/media/netflix.png": "/static/media/netflix.376a41c148b89f68d90b.png",
+    "static/media/youtube.png": "/static/media/youtube.dd4692678f1105e7036f.png",
+    "static/media/yagarika.png": "/static/media/yagarika.0e8b8c3c439a5a2730b8.png",
+    "static/media/remixicon.eot?t=1681573354175": "/static/media/remixicon.ae7015155af44fd22375.eot",
+    "static/media/remixicon.ttf?t=1681573354175": "/static/media/remixicon.8df75b42f93ef0e1f8aa.ttf",
+    "static/media/froentend c.png": "/static/media/froentend c.ef5dfb2066b2b53d7e2a.png",
+    "static/media/Ecommerce.png": "/static/media/Ecommerce.7564704f71eee75a4c64.png",
+    "static/media/nikhil.jpeg": "/static/media/nikhil.7e73a02ee42a02a49ef9.jpeg",
+    "static/media/remixicon.woff?t=1681573354175": "/static/media/remixicon.56b6495e17f23a23803a.woff",
+    "static/media/remixicon.woff2?t=1681573354175": "/static/media/remixicon.52f02e1386dd3597bc00.woff2",
+    "static/media/froentend b.png": "/static/media/froentend b.6557148b86532b114d4e.png",
+    "static/media/web rtc.png": "/static/media/web rtc.a26ff52f3af7f04596ef.png",
+    "index.html": "/index.html",
+    "main.87a46723.css.map": "/static/css/main.87a46723.css.map",
+    "main.29cdcae4.js.map": "/static/js/main.29cdcae4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87a46723.css",
+    "static/js/main.29cdcae4.js"
+  ]
+}
